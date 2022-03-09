@@ -1,0 +1,21 @@
+body {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  
+
+}
+img {
+  width: 150px;
+}
+article {
+  flex-basis: 16%;
+  font-size: small;
+  margin: 10px;
+  padding: 10px;
+ 
+}
+div{
+  font-size: 16px;
+  font-weight: bold;
+}
